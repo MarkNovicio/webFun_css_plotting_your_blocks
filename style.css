@@ -7,6 +7,7 @@
     width: 950px;
     background-color: silver;
     margin: 0px auto;
+    padding: 20px;
    }
    #header{
     min-height: 150px;
@@ -16,16 +17,24 @@
     min-height: 300px;
     width: 200px;
     background-color: blue;
+    margin: 20px  10px 20px 0px;
+    display: inline-block;
+    vertical-align: top;
    }
    #main_content{
     min-height: 400px;
     width: 700px;
     background-color: red;
+    display: inline-block;
+    padding: 10px 20px 0px 10px;
+    margin-top: 20px;
    }
    .subcontents{
     min-height: 200px;
     width: 210px;
     background-color: yellow;
+    display: inline-block;
+margin: 2px 5px 10px 4px;
    }
    #advertisement{
     min-height: 120px;
